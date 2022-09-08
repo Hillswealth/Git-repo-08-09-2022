@@ -5,7 +5,8 @@ c=a+b-4
 
 echo "i love to play games"$d
 echo "you are in trouble"
-echo "my first commit from main" 
+echo "my first commit from main"
+echo "my second commit from main"
 
 
 
