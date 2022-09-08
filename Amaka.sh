@@ -4,6 +4,7 @@ c=a+b-4
 ((d=c))
 
 echo "i love to play games"$d
+echo "my second commit from mainman"
 
 
 
